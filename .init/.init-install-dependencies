@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps",
+    "working_directory": "/home/kavia/workspace/code-generation/ota-management-interface-26337-26346/ota_frontend"
+}
